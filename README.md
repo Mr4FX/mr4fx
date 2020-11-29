@@ -15,7 +15,7 @@ I am a 18 years old, mostly self taught, software engineer & Security Researcher
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr4fx&hide=TeX&layout=compact&theme=radical)
 
 ### Random memes 
-#### supplied by [Stormix/memes](https://github.com/Stormix/memes/)
+#### supplied by [mr4fx/memes](https://github.com/mr4fx/memes/)
 ![](https://memes.stormix.co/send/memes)
 
 
