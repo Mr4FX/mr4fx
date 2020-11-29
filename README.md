@@ -1,6 +1,7 @@
 ## Hello World!
 
-I am a 18 years old, mostly self taught, software engineer & Security Researcher born in Morocco and currently living in Morocco. I'm passionate about sofware engineering, robotics, and everything in-between. I've worked with tools ranging from PHP / Laravel, JS/TS, Python, C++ . I love to learn and contribute in any and every possible way. 
+I am a 18 years old, mostly self taught, software engineer & Security Researcher born in Morocco and currently living in Morocco. I'm passionate about sofware engineering & Security Researching, robotics, and everything in-between. I've worked with tools ranging from PHP / Laravel, Python, NodeJs .
+I love to learn and contribute in any and every possible way. 
 
 ### To know a little more about me...
 
@@ -20,7 +21,7 @@ I am a 18 years old, mostly self taught, software engineer & Security Researcher
 
 
 <!--
-**Stormix/Stormix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mr4fx/mr4fx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I am a 21 year old, mostly self taught, software engineer from Morocco. I'm passionate about technology, communities, and everything in-between. I've worked with tools ranging from PHP / Laravel, JS/TS, Python, C++ and most web Frontend Technologies (VueJs, React ...) . I love to learn and contribute in any and every possible way. 
 Here are some ideas to get you started:
