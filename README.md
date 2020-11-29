@@ -4,7 +4,7 @@ I am a 18 years old, mostly self taught, software engineer & Security Researcher
 
 ### To know a little more about me...
 
-- ⚡ Personal Site [Afrox.co](http://Afrox.co/)
+- ⚡ Personal Site [Afrox.co](http://mr4fx.co/)
 - 🐦 Twitter: [@mr4fx](https://twitter.com/mr4fx)
 - 👥 LinkedIn [/abdellahaf](https://linkedin.com/in/abdellahaf)
 - 👨‍💻 Blogs/Writings: [Personal Blog](https://blog.abdellahaf.dev/)
