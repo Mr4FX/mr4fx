@@ -15,15 +15,15 @@ I love to learn and contribute in any and every possible way.
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mr4fx&count_private=true&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr4fx&hide=TeX&layout=compact&theme=radical)
 
-### Random memes 
-#### supplied by [mr4fx/memes](https://github.com/mr4fx/memes/)
+### Today jokes :v
+
 ![](https://memes.stormix.co/send/memes)
 
-
+#### supplied by [mr4fx/memes](https://github.com/mr4fx/memes/)
 <!--
 **mr4fx/mr4fx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-I am a 21 year old, mostly self taught, software engineer from Morocco. I'm passionate about technology, communities, and everything in-between. I've worked with tools ranging from PHP / Laravel, JS/TS, Python, C++ and most web Frontend Technologies (VueJs, React ...) . I love to learn and contribute in any and every possible way. 
+I am a 18 year old, mostly self taught, software engineer from Morocco. I'm passionate about technology, communities, and everything in-between. I've worked with tools ranging from PHP / Laravel, JS/TS, Python, C++ and most web Frontend Technologies (VueJs, React ...) . I love to learn and contribute in any and every possible way. 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
